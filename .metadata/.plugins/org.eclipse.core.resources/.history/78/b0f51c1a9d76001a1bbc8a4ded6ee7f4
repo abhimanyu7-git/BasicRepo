@@ -1,0 +1,17 @@
+apply plugin: 'eclipse'
+apply plugin: "war"
+
+sourceCompatibility = 1.8 
+version = '1.0' 
+
+war { 
+    baseName = 'ch02-gradle' 
+    version = '1.0' 
+} 
+
+sourceCompatibility = 1.8 
+
+repositories { 
+    mavenCentral() 
+    jcenter() 
+}

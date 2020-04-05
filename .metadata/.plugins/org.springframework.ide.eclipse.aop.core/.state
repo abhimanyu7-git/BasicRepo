@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="MySpringBootJPAWeb-1"/>
+<aop-project name="FirstProj"/>
+<aop-project name="DemoApp"/>
+<aop-project name="MySpringBootWeb"/>
+</aop-reference-model>
